@@ -1,0 +1,19 @@
+banner.css
+.banner{
+  background-image: url("../../images/NYC.jpeg");
+  color: #F0F8FF ;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  font-size: 50px;
+}
+
+.banner h2 {
+  font-weight: lighter;
+  font-size: 30px;
+  opacity: 0.7;
+  margin-bottom: 40px;
+}
